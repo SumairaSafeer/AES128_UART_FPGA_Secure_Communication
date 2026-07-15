@@ -75,8 +75,10 @@ CEP_AES_UART_Implementation/
 
 ---
 
-## Prepared By
+## 👩‍🎓 Author
+
 **Sumaira Safeer**  
-FA22-BCE-019  
-BS Computer Engineering (Final Year)  
-COMSATS University Islamabad, Attock Campus
+Computer Engineer 
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
+
